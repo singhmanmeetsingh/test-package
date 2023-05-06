@@ -1,0 +1,22 @@
+{
+  "name": "ckstring",
+  "version": "1.0.0",
+  "description": "CHECKSTRING",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhmanmeetsingh/test-package.git"
+  },
+  "keywords": [
+    "CHECKSTRING"
+  ],
+  "author": "singhmanmeetsingh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhmanmeetsingh/test-package/issues"
+  },
+  "homepage": "https://github.com/singhmanmeetsingh/test-package#readme"
+}
